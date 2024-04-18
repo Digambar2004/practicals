@@ -1,1 +1,2 @@
 # practicals
+ty bsc cs
